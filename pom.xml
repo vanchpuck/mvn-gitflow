@@ -6,7 +6,7 @@
 
     <groupId>izolotov</groupId>
     <artifactId>maven-gitflow</artifactId>
-    <version>2.7.0</version>
+    <version>3.0.0</version>
 
     <build>
         <plugins>
